@@ -155,3 +155,41 @@ h6 {
 		margin-top: -20px;
 	}
 }
+
+@media(max-width: 360px) {
+	.jumbotron {
+		padding-top: 110px;
+		padding-bottom: 460px;
+	}
+	.nama{
+		font-size: 20px;
+		margin: 0 auto;
+		margin-top: 110px;
+		position: relative;
+		padding-right: 1px;
+		font-weight: 3px;
+	}
+	#nama_1 {
+		font-size: 15px;
+		font-weight: 3px;
+	}
+	#foto {
+		width: 200px;
+		height: 200px;
+		margin-top: 10px;
+		margin-left: 23%;
+		position: absolute;
+	}
+	.tombol {
+		margin-top: 305px;
+		margin-left: 60px;
+	}
+	h4 {
+		font-size: 20px;
+	}
+	.row {
+		font-size: 15px;
+		padding: 5px;
+		margin-top: -20px;
+	}
+}
